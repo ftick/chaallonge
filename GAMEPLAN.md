@@ -1,6 +1,3 @@
-## Motivation
-I organize free weekly tournaments for UW Smash Club and kept running to seeding issues due to sudden influxes of new players and too many players overall to consistently seed well without 10 minutes of deliberation. The ultimate goal is to create something that helps avoid repeated matchups early in bracket, early "teamkills", and is minimal enough to use in presentation that TOs just getting into the swing of things can easily pick up and use.
-
 ## Base app
 - Informative seeding page (hover to check recent history)
 - Highlight players in both pages
